@@ -1,4 +1,27 @@
 hr {
-height: 10px;
-background-color: black;
+height: 2px;
+background-color: #aaaaaa;
+}
+
+.block {
+    display: block;
+}
+
+.right {
+    float: right;
+    color: #777777;
+}
+
+address {
+    font-size: rem;
+}
+
+body {
+    font-family: "Corbel", "Adobe Caslon Pro", "Minion Pro", serif;
+    margin: 10px;
+}
+
+h3 {
+    font-weight: bold;
+    text-decoration: underline;
 }
